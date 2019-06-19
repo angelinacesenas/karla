@@ -1,0 +1,36 @@
+h1 {
+  color: #4357EB;
+  font-family: 'Major Mono Display', monospace;
+}
+h2 {
+  color: #1A5AE8;
+}
+p {
+  border-style: ridge;
+}
+body{
+  background-color: #EBB0E0;
+}
+h3{
+  text-color: #1648EB;
+}
+.hobbies{
+  color: #4357EB;
+}
+h4{
+  color: #1648EB
+}
+.image{
+position: absolute;
+height: 200px;
+width: 200px;
+margin-left: 0%;
+}
+.images{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  margin-left: 80%;
+
+#inline {
+display: inline-block; }
